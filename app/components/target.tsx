@@ -669,10 +669,6 @@ export default function Target() {
         </div>
       </div>
 
-      <div className="text-center text-gray-400 text-xs py-4">
-        *Lịch trình 4-2-4. Tham khảo ý kiến bác sĩ.
-      </div>
-
       <style>{`
         .custom-scrollbar::-webkit-scrollbar { width: 4px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: #f1f1f1; }
